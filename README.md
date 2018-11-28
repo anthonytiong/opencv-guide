@@ -36,4 +36,4 @@ The video clips in the `video` folder are from [scikit-video](http://www.scikit-
 
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT) - see the [LICENSE](https://github.com/anthonytiong/opencv-guide/blob/master/LICENSE) file for details. 
 
-Third-party libary licenses can be found in [LICENSE-3RD-PARTY](https://github.com/anthonytiong/opencv-guide/blob/master/LICENSE-3RD-PARTY).  
+Third-party library licenses can be found in [LICENSE-3RD-PARTY](https://github.com/anthonytiong/opencv-guide/blob/master/LICENSE-3RD-PARTY).  
