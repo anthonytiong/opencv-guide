@@ -25,8 +25,8 @@ Step 4: New folder containing the extracted images will be created.
 ![extract_frame GIF](https://github.com/anthonytiong/opencv-guide/blob/master/others/extract_frame_example.gif)
 
 Extracted images: <br>
-<img src="https://github.com/anthonytiong/opencv-guide/blob/master/video-frame/bigbuckbunny_26.png", height=300 width=49%> <img src="https://github.com/anthonytiong/opencv-guide/blob/master/video-frame/bigbuckbunny_52.png", height=300 width=49%> <br>
-<img src="https://github.com/anthonytiong/opencv-guide/blob/master/video-frame/bigbuckbunny_78.png", height=300 width=49%> <img src="https://github.com/anthonytiong/opencv-guide/blob/master/video-frame/bigbuckbunny_104.png", height=300 width=49%> <br>
+<img src="https://github.com/anthonytiong/opencv-guide/blob/master/video-frame/bigbuckbunny_26.png" height=300 width=49%> <img src="https://github.com/anthonytiong/opencv-guide/blob/master/video-frame/bigbuckbunny_52.png" height=300 width=49%> <br>
+<img src="https://github.com/anthonytiong/opencv-guide/blob/master/video-frame/bigbuckbunny_78.png" height=300 width=49%> <img src="https://github.com/anthonytiong/opencv-guide/blob/master/video-frame/bigbuckbunny_104.png" height=300 width=49%> <br>
 
 ## Acknowledgement
 The video clips in the `video` folder are from [scikit-video](http://www.scikit-video.org/stable/datasets.html). 
