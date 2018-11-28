@@ -61,10 +61,14 @@ def video_to_frame(video_path, frame_ext='png', frame_dirname="video-frame", app
 
 def main():
     # demo
-    video_path = os.path.join(os.getcwd(), "video/bigbuckbunny.mp4")
-    approx_frame_num = 5
-    frame_ext = 'png'
-    video_to_frame(video_path, frame_ext=frame_ext, approx_frame_num=approx_frame_num)
+    video_name = input("Video name including extension: ")
+    frame_ext = input("Image extension? Eg. png, jpeg: ")
+    frame_dirname = input("Directory name to save the image: ")
+    approx_frame_num = int(input("Number of images to be extracted: "))
+    video_path = os.path.join(os.getcwd(), "video/", video_name)
+
+    video_to_frame(video_path, frame_ext=frame_ext, frame_dirname=frame_dirname,
+                   approx_frame_num=approx_frame_num)
 
 
 if __name__ == "__main__":
